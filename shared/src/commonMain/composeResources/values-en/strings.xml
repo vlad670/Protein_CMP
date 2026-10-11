@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_title">Protein Catalog</string>
+    <string name="start_hint">Empty. There will be a list here — you are writing it. There are already %1$s records in the state.</string>
+    <string name="action_toggle_theme">Switch the theme</string>
+    <string name="action_toggle_lang">Switch the language</string>
+    <string name="protein_number">#%1$s</string>
+    <string name="not_find">Not find</string>
+    <string name="back">Back</string>
+    <string name="full_name">Full name</string>
+    <string name="gene">Gene</string>
+    <string name="amino_acid_sequence">Amino Acid sequence</string>
+    <string name="organism">Organism</string>
+    <string name="related_proteins">Related proteins</string>
+    <string name="found">Found</string>
+    <string name="search">Search</string>
+</resources>
