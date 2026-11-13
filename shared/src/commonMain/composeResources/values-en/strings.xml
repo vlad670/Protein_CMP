@@ -13,4 +13,6 @@
     <string name="related_proteins">Related proteins</string>
     <string name="found">Found</string>
     <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading">Failed to load data</string>
 </resources>

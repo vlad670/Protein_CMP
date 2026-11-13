@@ -13,4 +13,6 @@
     <string name="related_proteins">Связанные белки</string>
     <string name="found">Найдено</string>
     <string name="search">Поиск</string>
+    <string name="retry">Повторить</string>
+    <string name="error_loading">Ошибка загрузки данных</string>
 </resources>

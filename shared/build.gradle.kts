@@ -61,6 +61,12 @@ kotlin {
         jvmMain.dependencies {
             implementation(libs.ktor.client.okhttp)
         }
+        iosMain.dependencies {
+            implementation(libs.ktor.client.darwin)
+        }
+        wasmJsMain.dependencies {
+            implementation(libs.ktor.client.js)
+        }
         commonMain.dependencies {
             implementation(compose.materialIconsExtended)
             implementation(libs.ktor.client.encoding)
